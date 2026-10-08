@@ -1,0 +1,1 @@
+PCD2E57_SCRIPT = 'D:\Dev/Point-Cloud-Registration/source/utils/toE57converter.bat'

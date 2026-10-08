@@ -1,0 +1,1 @@
+PROCESSING_SOURCE_CODE_DIR = 'D:\Dev\GUI\processing_source_code'

@@ -1,0 +1,9 @@
+pyntcloud
+pye57
+scikit-learn
+opencv-python
+scikit-learn
+scikit-image
+plotly
+open3d
+ipykernel

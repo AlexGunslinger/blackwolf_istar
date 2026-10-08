@@ -1,0 +1,5 @@
+- install pye57
+You might encounter a situation in which installing succeed but fail to import due to missing DLL libraries.
+
+Fix: Find and place xerces-c-3_2.dll under ...\Library\bin
+For example: In this computer, conda is used to create a virtual environment: point_cloud_registration. The library is located under XPSAdmin\.conda\envs\Library\bin
